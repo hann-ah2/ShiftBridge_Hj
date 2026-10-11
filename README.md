@@ -76,7 +76,7 @@ The proposed AI workflow separates responsibilities to make decisions more under
 3. Progress and Follow-up Agent: Monitor task updates and flag unresolved or overdue work.
 4. Handover Agent: Prepare a concise summary of open issues and the next shift's priorities.
 
-
+## The evidences are provided separately in the different folder.
 6. Technology Stack
 
 ### Used in the Current Frontend
