@@ -5,7 +5,7 @@
 Project status: Frontend prototype available. Backend, real-time collaboration, and autonomous AI workflows are in development or planned.
 
 Challenge: Track 2 — Tencent WorkBuddy  
-Presentation: [Add PDF link when ready]
+Presentation: https://drive.google.com/file/d/1LlCP8xnzoaEbRFuKsKvXN8t2y2UaBbrx/view?usp=drive_link
 
 1. The Problem
 
